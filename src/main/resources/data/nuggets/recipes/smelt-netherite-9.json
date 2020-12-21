@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "minecraft:netherite_boots"
+    },
+    "result": "nuggets:netherite_nugget",
+    "experience": 0.8,
+    "cookingtime": 200
+}

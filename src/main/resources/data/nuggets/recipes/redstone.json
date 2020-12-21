@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "nuggets:redstone_nugget"
+    }
+  },
+  "result": {
+    "item": "minecraft:redstone",
+    "count": 1
+  }
+}
